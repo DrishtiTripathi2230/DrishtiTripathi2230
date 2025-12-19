@@ -13,8 +13,9 @@ Focused on building strong problem-solving skills and improving core CS fundamen
 - Work on meaningful projects
 - Prepare for future internships
 
-### Links
-- [GitHub](https://github.com/drishtitripathi2230)
-- [LeetCode](https://leetcode.com/u/GnxyTryjCG/)
-- [LinkedIn](https://www.linkedin.com/in/drishti-tripathi-2b1aa7324/)
+### Let's connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/drishtitripathi2230)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/GnxyTryjCG/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/drishti-tripathi-2b1aa7324/)
 
