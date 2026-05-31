@@ -11,11 +11,6 @@ I'm a Computer Science student who learns by building things from scratch. I'm i
 - **[Cache_Memory_Simulator](https://github.com/DrishtiTripathi2230/Cache_Memory_Simulator)** — LRU and FIFO cache simulation in C++
 - **[signal-anomaly-detector](https://github.com/DrishtiTripathi2230/signal-anomaly-detector)** — Custom DFT implementation to detect anomalous frequencies in signals
 
----
-
-## Open Source
-
-- Merged PR in **abseil-cpp** (Google's C++ library) — documented the moved-from state contract for hash containers
 
 ---
 
